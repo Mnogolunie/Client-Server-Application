@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "ws": "^8.11.0"
+  },
+  "type": "module"
+}
