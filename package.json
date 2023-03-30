@@ -1,0 +1,10 @@
+{
+  "name": "ws",
+  "version": "1.0.0",
+  "scripts": {
+    "postinstall": "(cd server && npm install) && (cd client && npm install)"
+  },
+  "devDependencies": {
+    "prettier": "2.8.1"
+  }
+}
